@@ -20,3 +20,8 @@
 - Attempted Wazuh SIEM deployment
 - Troubleshot indexer, API, and dashboard issues
 - Documented real-world SIEM failure scenarios
+
+## 🖥️ Endpoint Security (Windows)
+
+- **Windows Endpoint SOC Log Analysis**  
+  Analyzed Windows Security Event Logs (4624/4625) to detect repeated authentication failures, simulate brute-force behavior, and perform SOC-style severity assessment and recommendations.
