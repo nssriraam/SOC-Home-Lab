@@ -1,28 +1,77 @@
+# SOC Home Lab – Security Operations Center Portfolio
+
+This repository contains a collection of **hands-on SOC home lab projects** focused on log analysis, SIEM monitoring, cloud security, endpoint detection, and incident response.
+
+The projects demonstrate **real-world SOC analyst workflows**, including detection, investigation, severity assessment, response actions, and professional documentation across Linux, Windows, and AWS environments.
+
+---
+
 ## 📁 Projects Included
 
-### Project 1 – Linux SOC Log Analysis
-- Analyzed Linux system logs for suspicious activity
-- Focused on authentication and system-level events
+### 🔹 Project 1 – Linux SOC Log Analysis
+- Analyzed Linux system logs to identify suspicious activity
+- Focused on authentication events and system-level logs
+- Identified abnormal access patterns and security-relevant events
 
-### Project 2 – Linux SSH Log Monitoring using Splunk
-- Monitored SSH login attempts using Splunk SIEM
-- Detected brute-force and unauthorized access patterns
+---
 
-### Project 3 – AWS CloudTrail Security Monitoring
-- Analyzed AWS CloudTrail audit logs
-- Tracked IAM activity and security-relevant events
+### 🔹 Project 2 – Linux SSH Log Monitoring using Splunk
+- Monitored SSH authentication activity using Splunk SIEM
+- Detected brute-force attempts and unauthorized access behavior
+- Performed log correlation and SOC-style alert analysis
 
-### Project 4 – AWS Cloud SOC IAM & EC2 Activity Monitoring
-- Monitored IAM and EC2 provisioning actions
-- Identified risky configurations and access behavior
+---
 
-### Wazuh SIEM – Deployment & Troubleshooting
+### 🔹 Project 3 – AWS CloudTrail Security Monitoring
+- Analyzed AWS CloudTrail audit logs for security monitoring
+- Tracked IAM activity and access-related events
+- Identified potentially risky or unauthorized cloud actions
+
+---
+
+### 🔹 Project 4 – AWS Cloud SOC IAM & EC2 Activity Monitoring
+- Monitored IAM and EC2 provisioning actions in an AWS environment
+- Identified risky configurations and abnormal access behavior
+- Applied SOC investigation techniques to cloud security events
+
+---
+
+### 🔹 Wazuh SIEM – Deployment & Troubleshooting
 - Attempted self-hosted Wazuh SIEM deployment
 - Troubleshot indexer, API, and dashboard failures
-- Documented real-world SIEM operational risks
+- Documented real-world SIEM operational challenges and limitations
 
-### Endpoint Security (Windows)
-- **Windows Endpoint SOC Log Analysis**
-  - Analyzed Windows Security Event Logs (4624/4625)
-  - Detected repeated authentication failures and simulated brute-force behavior
-  - Performed SOC-style severity assessment and response recommendations
+---
+
+### 🔹 Windows Endpoint SOC Log Analysis
+- Analyzed Windows Security Event Logs (Event IDs 4624, 4625)
+- Detected repeated authentication failures and simulated brute-force activity
+- Performed SOC-style severity assessment and response recommendations
+
+---
+
+### 🔹 SOC Incident Case Study – Alert Handling & Response
+- Documented a full SOC incident workflow from initial alert to closure
+- Performed alert triage, investigation, severity classification, and response
+- Mapped activity to MITRE ATT&CK and documented analyst decision-making
+
+---
+
+## 🛠 Skills Demonstrated
+
+- Security log analysis (Linux, Windows, AWS)
+- SIEM monitoring and alert investigation
+- SOC incident handling and response workflows
+- Cloud security monitoring (AWS IAM & EC2)
+- Endpoint detection and authentication analysis
+- Professional SOC documentation and reporting
+
+---
+
+## 🎯 Objective
+
+This repository is designed to demonstrate **practical SOC analyst skills** through realistic scenarios and structured investigations, bridging the gap between theoretical knowledge and real-world security operations.
+
+---
+
+📌 **This portfolio reflects entry-to-mid level SOC analyst capabilities and follows industry-aligned investigation and response practices.**
