@@ -6,7 +6,7 @@ and AI-assisted security automation.
 
 The projects demonstrate real-world SOC analyst workflows, including detection, 
 investigation, severity assessment, response actions, and professional documentation 
-across Linux, Windows, and AWS environments — including an AI-powered CloudTrail An 
+across Linux, Windows, and AWS environments - including an AI-powered CloudTrail An 
 anomaly detector built with Python and a local LLM.
 
 ---
