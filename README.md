@@ -57,6 +57,12 @@ The projects demonstrate **real-world SOC analyst workflows**, including detecti
 
 ---
 
+### 🔹 Project 8 – AI-Powered CloudTrail Anomaly Detector
+* Built a local AI-powered security tool using Python and Ollama (Qwen 2.5)
+* Analyzes AWS CloudTrail JSON logs using a locally running LLM
+* Performs automated SOC-style triage: severity rating, MITRE ATT&CK mapping, and recommended actions
+* Generates a structured incident report from analysis results
+
 ## 🛠 Skills Demonstrated
 
 - Security log analysis (Linux, Windows, AWS)
@@ -65,3 +71,5 @@ The projects demonstrate **real-world SOC analyst workflows**, including detecti
 - Cloud security monitoring (AWS IAM & EC2)
 - Endpoint detection and authentication analysis
 - Professional SOC documentation and reporting
+- AI/LLM integration for security automation
+- Python scripting for security tooling
