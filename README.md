@@ -1,8 +1,13 @@
 # SOC Home Lab – Security Operations Center Portfolio
 
-This repository contains a collection of **hands-on SOC home lab projects** focused on log analysis, SIEM monitoring, cloud security, endpoint detection, and incident response.
+This repository contains a collection of hands-on SOC home lab projects focused on 
+log analysis, SIEM monitoring, cloud security, endpoint detection, incident response, 
+and AI-assisted security automation.
 
-The projects demonstrate **real-world SOC analyst workflows**, including detection, investigation, severity assessment, response actions, and professional documentation across Linux, Windows, and AWS environments.
+The projects demonstrate real-world SOC analyst workflows, including detection, 
+investigation, severity assessment, response actions, and professional documentation 
+across Linux, Windows, and AWS environments — including an AI-powered CloudTrail An 
+anomaly detector built with Python and a local LLM.
 
 ---
 
