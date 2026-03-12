@@ -8,28 +8,28 @@ The projects demonstrate **real-world SOC analyst workflows**, including detecti
 
 ## 📁 Projects Included
 
-### 🔹 Project 1 – Linux SOC Log Analysis
+### 🔹 Linux SOC Log Analysis
 - Analyzed Linux system logs to identify suspicious activity
 - Focused on authentication events and system-level logs
 - Identified abnormal access patterns and security-relevant events
 
 ---
 
-### 🔹 Project 2 – Linux SSH Log Monitoring using Splunk
+### 🔹 Linux SSH Log Monitoring using Splunk
 - Monitored SSH authentication activity using Splunk SIEM
 - Detected brute-force attempts and unauthorized access behavior
 - Performed log correlation and SOC-style alert analysis
 
 ---
 
-### 🔹 Project 3 – AWS CloudTrail Security Monitoring
+### 🔹 AWS CloudTrail Security Monitoring
 - Analyzed AWS CloudTrail audit logs for security monitoring
 - Tracked IAM activity and access-related events
 - Identified potentially risky or unauthorized cloud actions
 
 ---
 
-### 🔹 Project 4 – AWS Cloud SOC IAM & EC2 Activity Monitoring
+### 🔹 AWS Cloud SOC IAM & EC2 Activity Monitoring
 - Monitored IAM and EC2 provisioning actions in an AWS environment
 - Identified risky configurations and abnormal access behavior
 - Applied SOC investigation techniques to cloud security events
@@ -57,7 +57,7 @@ The projects demonstrate **real-world SOC analyst workflows**, including detecti
 
 ---
 
-### 🔹 Project 8 – AI-Powered CloudTrail Anomaly Detector
+### 🔹 AI-Powered CloudTrail Anomaly Detector
 * Built a local AI-powered security tool using Python and Ollama (Qwen 2.5)
 * Analyzes AWS CloudTrail JSON logs using a locally running LLM
 * Performs automated SOC-style triage: severity rating, MITRE ATT&CK mapping, and recommended actions
