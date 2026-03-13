@@ -5,8 +5,7 @@ log analysis, SIEM monitoring, cloud security, endpoint detection and incident r
 
 The projects demonstrate real-world SOC analyst workflows, including detection, 
 investigation, severity assessment, response actions, and professional documentation 
-across Linux, Windows, and AWS environments - including an AI-powered CloudTrail 
-anomaly detector built with Python and a local LLM.
+across Linux, Windows, and AWS environments
 
 ---
 
